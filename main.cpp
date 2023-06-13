@@ -225,7 +225,7 @@ void exit_program()
 {
            cout<<"\n========================================>";
            cout<<"\nTHANK YOU :))";
-           cout<<"\nDeveloped by:-\n-->Aarushee Krishna\n---->Devika Gupta\n------>Stuti Sharma";
+           cout<<"\nDeveloped by:----->Devika Gupta";
            cout<<"\n========================================>";
            exit(0);
 }
